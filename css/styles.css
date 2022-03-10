@@ -1,0 +1,136 @@
+body {
+    background-color: darkslategrey;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus, serif;
+}
+
+h1 {
+    color: aquamarine;
+    font-size: 50px;
+    font-family: papyrus, serif;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-color: lightsalmon;
+    border-width: 10px;
+    height: 0px;
+    width: 100%;
+    }
+
+h2 {
+    color: aquamarine;
+    font-family: Papyrus, sans-serif;
+    font-size: 30px;
+    }
+
+h3 {
+    font-family: Copperplate, serif;
+    font-size: 50px;
+    color: lightsalmon;
+    }
+
+h4 {
+    font-family: Copperplate, serif;
+    font-size: 25px;
+}
+
+.top {
+    position: relative;
+    text-align: center;
+}
+
+.jewelry {
+    height: 200px;
+    width: 200px;
+}
+
+.item-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    line-height: 0.6;
+}
+
+.artist-description {
+    font-size: 23px;
+    color: tan;
+}
+
+.background-pic {
+    position: relative;
+    height: 800px;
+    width: 100%;
+}
+
+.malachite-background {
+    position: relative;
+    height: 700px;
+    width: 100%;
+}
+
+.gem-img {
+    height: 110px;
+    width: 110px;
+}
+
+.table {
+    color: lightcyan;
+    font-family: papyrus;
+    position: relative;
+    top: 20px
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.website-name {
+    color: coral;
+    position: absolute;
+    top: 40px;
+    padding-left: 80px
+}
+
+.page-name {
+    position: absolute;
+    top: 500px;
+    padding-left: 220px;
+    font-family: Papyrus;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    }
+
+.user-info {
+    color: tan;
+}
+
+.contact-img {
+    height: 200px;
+    width: 200px;
+}
+
+.greeter {
+    color: red;
+    position: absolute;
+    top: 395px;
+    left: 100px;
+}
+
+.artist-description {
+    color: white;
+    position: absolute;
+    top: 600px;
+    font-size: 18px;
+    }
+
+.prompts {
+    color: black;
+    position: relative;
+    font-size: 20px;
+    }
+
+button {
+    background-color: darkslategrey;
+    color: white;
+    }
